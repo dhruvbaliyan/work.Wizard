@@ -27,7 +27,7 @@ const ConversationSchema = new Schema(
     lastMessage: {
       type: String,
       required: false,
-    },
+    }
   },
   {
     timestamps: true,

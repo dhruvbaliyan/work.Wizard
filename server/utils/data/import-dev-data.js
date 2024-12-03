@@ -1,8 +1,8 @@
 import dotenv from 'dotenv';
 import fs from 'fs';
 import mongoose from 'mongoose';
-import Gigs from '../../models/gig.model.js'; // Adjust the path to your model
-
+// import Gigs from '../../models/gig.model.js'; // Adjust the path to your model
+import Order from '../../models/order.model'
 dotenv.config({path:'/Users/Shared/Files From f.localized/Web Devlopment/React/work_Wizard/work_wizard/server/.env'});
 
 // if (!process.env.DATABASE || !process.env.DATABASE_PASSWORD) {
@@ -31,7 +31,7 @@ const tours = JSON.parse(
 // IMPORT DATA INTO DB
 const importData = async () => {
   try {
-    await Gigs.create(tours);
+    await Order.create(tours);
     console.log('Data successfully loaded!');
   } catch (err) {
     console.log(err);

@@ -187,3 +187,7 @@
     box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.1);
     cursor: pointer;
 }
+.chatbox--deactive{
+    // display: none;
+    z-index: -10;
+}

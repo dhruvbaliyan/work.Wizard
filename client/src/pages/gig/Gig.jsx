@@ -27,6 +27,8 @@ function Gig() {
     queryKey: ["user"],
     queryFn: () =>
       newRequest.get(`/users/${userId}`).then((res) => {
+        console.log(res);
+        
         return res.data;
       }),
     enabled: !!userId,

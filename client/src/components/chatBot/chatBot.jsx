@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./chatbot.scss";
 
-import img1 from './../chatBot/chatbox-icon.svg'
+import img1 from '../../../public/img/chatbox-icon.svg'
 const Chatbot = () => {
   const [isActive, setIsActive] = useState(false);
   const [messages, setMessages] = useState([]);
@@ -52,7 +52,7 @@ const Chatbot = () => {
       </div>
 
       {/* Chatbox Content */}
-      <div className={`chatbox__support ${isActive ? "chatbox--active" : ""}`}>
+      <div className={`chatbox__support ${isActive ? "chatbox--active" : "chatbox--deactive"}`}>
         <div className="chatbox__header">
           <div className="chatbox__image--header">
             <img

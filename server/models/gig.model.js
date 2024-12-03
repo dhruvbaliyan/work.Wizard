@@ -5,7 +5,7 @@ const GigSchema = new Schema(
   {
     userId: {
       type: mongoose.Schema.Types.ObjectId,
-      required: false,
+      required: false
     },
     title: {
       type: String,
