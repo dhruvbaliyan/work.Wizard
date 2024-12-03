@@ -1,137 +1,59 @@
 [
   {
-    "_id": "620d65c5f10b2f90ac8a1e2d",
-    "userId": "620d65c5f10b2f90ac8a1e1f",
-    "title": "Professional Logo Design",
-    "desc": "Custom logos for businesses, startups, and brands.",
-    "totalStars": 120,
-    "starNumber": 24,
-    "cat": "Design & Creative",
-    "price": 150,
-    "cover": "https://via.placeholder.com/300",
-    "images": [
-      "https://via.placeholder.com/600",
-      "https://via.placeholder.com/600"
-    ],
-    "shortTitle": "Custom Logo Design",
-    "shortDesc": "Get a professional logo designed for your business.",
-    "deliveryTime": 5,
-    "revisionNumber": 2,
-    "features": [
-      "High-quality vector logo",
-      "Unlimited revisions",
-      "Fast delivery"
-    ],
-    "sales": 35,
-    "createdAt": "2024-01-01T10:00:00.000Z",
-    "updatedAt": "2024-01-02T12:00:00.000Z"
-  },
-  {
-    "_id": "620d65c5f10b2f90ac8a1e2e",
-    "userId": "620d65c5f10b2f90ac8a1e20",
-    "title": "AI-Based Web Development",
-    "desc": "Build a modern website with cutting-edge AI integration.",
-    "totalStars": 200,
-    "starNumber": 40,
-    "cat": "Programming & Tech",
+    "userId": "64a8c7b0f01d2b3e8e6a6b44",
+    "title": "Web Development Service",
+    "desc": "I will create a fully responsive website for your business or personal needs.",
+    "totalStars": 4.5,
+    "starNumber": 25,
+    "cat": "Web Development",
     "price": 500,
-    "cover": "https://via.placeholder.com/300",
-    "images": [
-      "https://via.placeholder.com/600",
-      "https://via.placeholder.com/600"
-    ],
-    "shortTitle": "AI Website Development",
-    "shortDesc": "Get an AI-powered website tailored to your needs.",
-    "deliveryTime": 15,
-    "revisionNumber": 3,
-    "features": [
-      "AI-driven automation",
-      "Responsive web design",
-      "SEO-friendly"
-    ],
-    "sales": 45,
-    "createdAt": "2024-01-05T14:30:00.000Z",
-    "updatedAt": "2024-01-06T16:45:00.000Z"
-  },
-  {
-    "_id": "620d65c5f10b2f90ac8a1e2f",
-    "userId": "620d65c5f10b2f90ac8a1e21",
-    "title": "Custom Illustrations",
-    "desc": "Hand-drawn or digital illustrations for personal or commercial use.",
-    "totalStars": 80,
-    "starNumber": 16,
-    "cat": "Design & Creative",
-    "price": 250,
-    "cover": "https://via.placeholder.com/300",
-    "images": [
-      "https://via.placeholder.com/600",
-      "https://via.placeholder.com/600"
-    ],
-    "shortTitle": "Custom Illustrations",
-    "shortDesc": "Get custom artwork for your project or brand.",
+    "cover": "https://example.com/cover1.jpg",
+    "images": ["https://example.com/image1.jpg", "https://example.com/image2.jpg"],
+    "shortTitle": "Responsive Website",
+    "shortDesc": "Custom web development tailored to your needs.",
     "deliveryTime": 7,
     "revisionNumber": 2,
-    "features": [
-      "Custom hand-drawn illustrations",
-      "High-resolution files",
-      "Commercial use rights"
-    ],
-    "sales": 60,
-    "createdAt": "2024-01-08T08:00:00.000Z",
-    "updatedAt": "2024-01-09T09:30:00.000Z"
+    "features": ["Custom Design", "SEO Optimized", "Responsive Design"],
+    "sales": 12,
+    "createdAt": "2024-12-03T00:00:00.000Z",
+    "updatedAt": "2024-12-03T00:00:00.000Z"
   },
   {
-    "_id": "620d65c5f10b2f90ac8a1e30",
-    "userId": "620d65c5f10b2f90ac8a1e22",
-    "title": "SEO Optimization",
-    "desc": "Improve your website's ranking on Google and other search engines.",
-    "totalStars": 250,
-    "starNumber": 50,
+    "userId": "64a8c7b0f01d2b3e8e6a6b45",
+    "title": "SEO Optimization Service",
+    "desc": "Get your website ranked higher on Google with effective SEO strategies.",
+    "totalStars": 4.8,
+    "starNumber": 40,
     "cat": "Digital Marketing",
     "price": 300,
-    "cover": "https://via.placeholder.com/300",
-    "images": [
-      "https://via.placeholder.com/600",
-      "https://via.placeholder.com/600"
-    ],
-    "shortTitle": "SEO Services",
-    "shortDesc": "Boost your website's visibility with SEO services.",
-    "deliveryTime": 10,
-    "revisionNumber": 1,
-    "features": [
-      "On-page and off-page SEO",
-      "Keyword research",
-      "Monthly performance reports"
-    ],
-    "sales": 75,
-    "createdAt": "2024-01-10T10:00:00.000Z",
-    "updatedAt": "2024-01-11T12:00:00.000Z"
+    "cover": "https://example.com/cover2.jpg",
+    "images": ["https://example.com/image3.jpg", "https://example.com/image4.jpg"],
+    "shortTitle": "SEO Optimization",
+    "shortDesc": "Boost your website's search engine ranking.",
+    "deliveryTime": 5,
+    "revisionNumber": 3,
+    "features": ["Keyword Research", "On-Page SEO", "Link Building"],
+    "sales": 22,
+    "createdAt": "2024-12-03T00:00:00.000Z",
+    "updatedAt": "2024-12-03T00:00:00.000Z"
   },
   {
-    "_id": "620d65c5f10b2f90ac8a1e31",
-    "userId": "620d65c5f10b2f90ac8a1e23",
-    "title": "Social Media Marketing",
-    "desc": "Grow your brand and reach more customers through targeted social media ads.",
-    "totalStars": 180,
-    "starNumber": 36,
-    "cat": "Digital Marketing",
+    "userId": "64a8c7b0f01d2b3e8e6a6b46",
+    "title": "Logo Design Service",
+    "desc": "I will create a unique and professional logo for your brand.",
+    "totalStars": 5.0,
+    "starNumber": 15,
+    "cat": "Graphic Design",
     "price": 200,
-    "cover": "https://via.placeholder.com/300",
-    "images": [
-      "https://via.placeholder.com/600",
-      "https://via.placeholder.com/600"
-    ],
-    "shortTitle": "Social Media Ads",
-    "shortDesc": "Get the best ROI from social media marketing.",
-    "deliveryTime": 7,
-    "revisionNumber": 2,
-    "features": [
-      "Targeted ad campaigns",
-      "Ad management across platforms",
-      "Analytics and reporting"
-    ],
-    "sales": 90,
-    "createdAt": "2024-01-12T15:00:00.000Z",
-    "updatedAt": "2024-01-13T17:15:00.000Z"
+    "cover": "https://example.com/cover3.jpg",
+    "images": ["https://example.com/image5.jpg", "https://example.com/image6.jpg"],
+    "shortTitle": "Professional Logo",
+    "shortDesc": "Custom logos for your brand identity.",
+    "deliveryTime": 3,
+    "revisionNumber": 1,
+    "features": ["Custom Design", "High Quality", "Brand Focused"],
+    "sales": 8,
+    "createdAt": "2024-12-03T00:00:00.000Z",
+    "updatedAt": "2024-12-03T00:00:00.000Z"
   }
 ]

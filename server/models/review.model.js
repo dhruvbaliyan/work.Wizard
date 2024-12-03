@@ -6,10 +6,12 @@ const ReviewSchema = new Schema(
     gigId: {
       type: String,
       required: true,
+      ref: 'Gig'
     },
     userId: {
       type: String,
       required: true,
+      ref: 'User'
     },
     star: {
       type: Number,

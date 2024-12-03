@@ -19,6 +19,7 @@ import {
 } from "@tanstack/react-query";
 import Pay from "./pages/pay/Pay";
 import Success from "./pages/success/Success";
+import Chatbox from "./components/chatBot/chatBot";
 function App() {
   const queryClient = new QueryClient();
 
@@ -27,6 +28,7 @@ function App() {
       <div className="app">
         <QueryClientProvider client={queryClient}>
           <Navbar />
+          <Chatbox/>
           <Outlet />
           <Footer />
         </QueryClientProvider>
